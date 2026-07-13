@@ -13,4 +13,4 @@ Neste desafio, apliquei conceitos fundamentais de lógica de programação para 
 ### 🚀 Como rodar na sua máquina
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/nome-do-repositorio.git](https://github.com/SEU_USUARIO/nome-do-repositorio.git)
+   git clone [https://github.com/MarceloFraitag/desafio_heroi.git](https://github.com/MarceloFraitag/desafio_heroi.git)
